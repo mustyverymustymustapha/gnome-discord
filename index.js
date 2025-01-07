@@ -22,7 +22,8 @@ client.on("messageCreate", (message) => {
       "IT SHOULD BE AN INTERNATIONAL CRIME TO SPEAK BRAINROT.",
       "YOUR MESSAGE WAS DELETED FOR INCLUDING BRAINROT.",
       "just stop with the brainrot.",
-      "no brainrotted individuals allowed here."
+      "no brainrotted individuals allowed here.",
+        "Brainrot detected, a nuke has been launched at your approximate location."
     ];
   
     const brainrotKeywords = ["gyatt", "skibidi", "ohio"];
